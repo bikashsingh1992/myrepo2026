@@ -1,3 +1,4 @@
 *.log
 *.image/logo.jpg
+*.txt
 !FILE2.txt
